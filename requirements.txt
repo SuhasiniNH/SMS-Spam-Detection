@@ -1,0 +1,11 @@
+# Data handling
+pandas
+
+# Model persistence
+pickle-mixin   # pickle is built-in, but this helper ensures compatibility in requirements
+
+# Deep learning (TensorFlow + Keras)
+tensorflow
+
+# Scikit-learn for train/test split
+scikit-learn
